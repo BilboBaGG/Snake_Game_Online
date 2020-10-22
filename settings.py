@@ -1,0 +1,4 @@
+FPS = 100
+
+WIDTH = 500
+HEIGHT = 500
